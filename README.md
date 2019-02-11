@@ -6,7 +6,7 @@ the solutions, the wizards can break the magic barriers protecting the cave and 
 rooms.
 The Wizards are not always available, as sometimes they sleep. When a wizard is awake, he takes puzzle
 solutions from the miners, and does wizardly things to unlock the paths to all adjacent rooms. If the puzzles
-are solved incorrectly, when the wizard tries to unlock the paths, a great explosion kills everyone, ends the
-program, and the student is given 0 points.
+are solved incorrectly, when the wizard tries to unlock the paths, a great explosion kills everyone and ends the
+program.
 The solution should be implemented in Java using threads. You are only responsible for implementing the
 miners and the communication channel between them and the wizards.
